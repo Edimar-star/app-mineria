@@ -1,0 +1,14 @@
+test:
+  outputs:
+    dev:
+      dataset: mineria_07262023
+      job_execution_timeout_seconds: 1200
+      job_retries: 1
+      keyfile: mineria2023-30.json
+      location: US
+      method: service-account
+      priority: interactive
+      project: mineria2023-30
+      threads: 1
+      type: bigquery
+  target: dev

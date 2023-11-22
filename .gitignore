@@ -1,0 +1,7 @@
+target/
+dbt_packages/
+logs/
+venv/
+__pycache__/
+models/
+mineria2023-30.json
